@@ -1,5 +1,9 @@
 # Next.js with TypeScript example
 
+## Note
+This starter is based off of [this](https://github.com/mui/material-ui/tree/master/examples/nextjs-with-typescript).
+It contains a page called example with a parent layout which contains a responsive drawer.
+
 ## How to use
 
 Download the example [or clone the repo](https://github.com/mui/material-ui):
